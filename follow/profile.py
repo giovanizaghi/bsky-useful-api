@@ -2,7 +2,7 @@ from atproto import Client
 
 # Configura e autentica o cliente
 client = Client(base_url='https://bsky.social')
-client.login('giovanizaghi@icloud.com', 'vegnyz-qodveM-4nawfe')
+client.login('SEU_EMAIL', 'SUA_SENHA')
 i = 0
 while i < 20:
 
